@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1CE4D006-E3AC-4BAD-9511-9960BDE92D48}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>kiosky</RootNamespace>
     <AssemblyName>kiosky</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -33,7 +33,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>1404b94cb84c9f989e9453559d81427b_k_letter_origami_isotype_by_vexels_hJp_icon.ico</ApplicationIcon>
+    <ApplicationIcon>kioskyicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1404b94cb84c9f989e9453559d81427b_k_letter_origami_isotype_by_vexels_hJp_icon.ico" />
+    <Content Include="kioskyicon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
