@@ -1,0 +1,7 @@
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\obj\Debug\kioskyconsole.csprojAssemblyReference.cache
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\obj\Debug\kioskyconsole.csproj.CoreCompileInputs.cache
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\bin\Debug\kiosky.exe.config
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\bin\Debug\kiosky.exe
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\bin\Debug\kiosky.pdb
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\obj\Debug\kiosky.exe
+C:\Users\ayhan\source\repos\kioskyconsole\kioskyconsole\obj\Debug\kiosky.pdb
