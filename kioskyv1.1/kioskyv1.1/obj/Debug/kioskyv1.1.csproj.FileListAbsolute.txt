@@ -1,0 +1,7 @@
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\obj\Debug\kioskyv1.1.csprojAssemblyReference.cache
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\obj\Debug\kioskyv1.1.csproj.CoreCompileInputs.cache
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\bin\Debug\kioskyv1.1.exe.config
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\bin\Debug\kioskyv1.1.exe
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\bin\Debug\kioskyv1.1.pdb
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\obj\Debug\kioskyv1.1.exe
+C:\Users\ayhan\Desktop\kioskyv1.1\kioskyv1.1\obj\Debug\kioskyv1.1.pdb
