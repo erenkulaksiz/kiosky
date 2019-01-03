@@ -29,3 +29,21 @@ v1.2
   Theres no encryption system so its very vulnerable but also very basic system to make.
   
 > Some error systems implemented. Now kiosky shows you the error it has.
+
+v1.4 BETA
+
+> New features.
+ > cnscolor now save colors (kiosky_color.txt).
+ > cnscolor works more optimized now.
+ > kioskyconfig works more optimized no.w.
+ > fixed some issues with kioskyconfig
+ > errors now showup. You can see what error kiosky has now.
+
+> Will fully release codes with v1.5 release. This is beta release of the kiosky v1.5 branch.
+
+CURRENT GOALS: 
+
+> If theres no txt files, create the files on current directory. This process will lower kiosky's size and optimize it even more.
+> Encrypt / Decrypt things and save everything on single txt file.
+
+
