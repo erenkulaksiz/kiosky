@@ -46,4 +46,11 @@ CURRENT GOALS:
 > If theres no txt files, create the files on current directory. This process will lower kiosky's size and optimize it even more.
 > Encrypt / Decrypt things and save everything on single txt file.
 
+_________________________
+
+Default username and password is in the kiosky_username and kiosky_password txt files. Current defaults:
+
+> Username: admin
+> Password: 12345
+
 
