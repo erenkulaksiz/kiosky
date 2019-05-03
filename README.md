@@ -1,7 +1,7 @@
 # kiosky
 Very basic C# console.
 
-This project was written in Visual Studio 2017 Community Edition and project not related for earn cash/money.
+This project is for educational purposes only and i dont work for this project. Thank you for your advice.
 
 Commands: (For the latest version v1.2)
 
