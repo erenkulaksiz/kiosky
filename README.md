@@ -1,7 +1,7 @@
 # kiosky
 Very basic C# console.
 
-i fricking lost the latest version's code. hhhhhhmmmm okay
+----- PROJECT ABANDONED, NO SUPPORT IS GIVEN -----
 
 This project is for educational purposes only and i dont work for this project. Thank you for your advice.
 
