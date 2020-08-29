@@ -1,9 +1,9 @@
 # kiosky
 Very basic C# console.
 
------ PROJECT ABANDONED, NO SUPPORT IS GIVEN -----
+----- PROJECT ABANDONED, NO FURTHER SUPPORT -----
 
-This project is for educational purposes only and i dont work for this project. Thank you for your advice.
+This project is for educational purposes only and i dont work for this project anymore.
 
 Commands: (For the latest version v1.2)
 
